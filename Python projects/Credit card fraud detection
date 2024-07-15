@@ -1,0 +1,4 @@
+This project was done under the internship job offered by Coding Raja Technologies
+This project was done with Logistic Regression model and shows the training data accuracy score and test data accuracy score at the end of the program 
+Initially, the dataset had contained lot of Nan values and empty cells.
+After handling those missing values, the new dataset was created by concatenating the fraudulant Transaction data with the randomly selected rows from legit transaction data of the original dataset, to make balanced dataset for the model training.
