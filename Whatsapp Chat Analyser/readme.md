@@ -1,1 +1,1 @@
-A Streamlit Application to analysing whatsapp chat
+A Streamlit Application to analyse whatsapp chat
